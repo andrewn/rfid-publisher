@@ -1,0 +1,15 @@
+{
+  "name": "rfid-publisher",
+  "version": "0.1.",
+  "description": "Publish RFID tag IDs over MQTT",
+  "main": "rfid.js",
+  "dependencies": {
+    "serialport": "~1.1.1",
+    "mqtt": "~0.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "repository": "https://github.com/andrewn/rfid-publisher",
+  "author": "Andrew Nicolaou",
+  "license": ""
+}
