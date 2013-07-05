@@ -18,7 +18,7 @@ You need:
 
 Connect up the Arduino like this:
 
-![rfid-arduino_bb.png]()
+![](rfid-arduino_bb.png)
 
 See the `rfid-arduino.fzz` for the [Fritzing](http://fritzing.org/) file.
 
